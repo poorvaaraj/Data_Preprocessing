@@ -1,7 +1,8 @@
 * Data_Preprocessing *
 This repository contains the code and data used to preprocess a movie dataset. 
 The dataset contains information about movies such as the title, genre, release year, and ratings, budget,language,Title,etc.
-The data preprocessing steps were performed using Python and the Pandas library. The following steps were taken:
+The data preprocessing steps were performed using Python and the Pandas library. 
+The following steps were taken:
 1. Load the Dataset
 2. Explore the dataset
 3. Text preprocessing 
